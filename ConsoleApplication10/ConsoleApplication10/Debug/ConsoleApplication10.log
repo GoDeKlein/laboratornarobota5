@@ -1,0 +1,6 @@
+﻿  ConsoleApplication10.cpp
+D:\github\laboratornarobota5\ConsoleApplication10\ConsoleApplication10\ConsoleApplication10.cpp(19,24): warning C4474: "printf" : для строки формата передано слишком много аргументов
+D:\github\laboratornarobota5\ConsoleApplication10\ConsoleApplication10\ConsoleApplication10.cpp(19,24): message : заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+D:\github\laboratornarobota5\ConsoleApplication10\ConsoleApplication10\ConsoleApplication10.cpp(21,24): warning C4474: "printf" : для строки формата передано слишком много аргументов
+D:\github\laboratornarobota5\ConsoleApplication10\ConsoleApplication10\ConsoleApplication10.cpp(21,24): message : заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+  ConsoleApplication10.vcxproj -> D:\github\laboratornarobota5\ConsoleApplication10\Debug\ConsoleApplication10.exe
